@@ -10,19 +10,3 @@ En el servidor pasa lo mismo: cuando hay demasiadas peticiones se queda sin recu
 
 Este es el concepto básico del DDoS, aunque se puede modificar para que sea más efectivo. Por ejemplo, se pueden enviar los datos muy lentamente haciendo que el servidor consuma más recursos por cada conexión (Slow Read es un ejemplo de ataque de este tipo), o alterar los paquetes para que el servidor se quede esperando indefinidamente una respuesta de una IP falsa
 
-Información:
-Blogger          https://lpericena.blogspot.com/
-Github            https://github.com/Pericena
-Grupo            https://www.facebook.com/groups/122223121705126/?ref=bookmarks
-pinterest        https://es.pinterest.com/lushiopericena/
-twitter             https://twitter.com/LPericena
-linkedin          https://www.linkedin.com/in/luishi%C3%B1o-pericena-choque-126534116/
-facebook       https://www.facebook.com/profile.php?id=100009309755063
-pagina facebook  https://www.facebook.com/lpericena
-sitio web        https://pericena.wordpress.com/
-Aplicacion     https://apps.facebook.com/167466933725219
-contacto        https://www.facebook.com/Servicio-T%C3%A9cnico-1506435219407506/
-https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
-ask      https://ask.fm/Lpericena
-soundcloud   https://soundcloud.com/luishino-pericena-choque
-
